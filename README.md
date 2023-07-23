@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034040230536) 
 
@@ -8,4 +10,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Proseidons&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proseidons&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![great-gatsby][great-gatsby]
+
