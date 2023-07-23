@@ -1,4 +1,3 @@
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034040230536) 
 
@@ -8,6 +7,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Proseidons&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Proseidons&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proseidons&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Proseidons&theme=radical&no-frame=false&no-bg=false&margin-w=4)
